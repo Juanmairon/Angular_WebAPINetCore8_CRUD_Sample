@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TPsIngSoftIII\\Nueva carpeta\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
       "projectName": "EmployeeCrudApi",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\TPsIngSoftIII\\Nueva carpeta\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\TPsIngSoftIII\\Nueva carpeta\\Angular_WebAPINetCore8_CRUD_Sample\\EmployeeCrudApi\\EmployeeCrudApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
