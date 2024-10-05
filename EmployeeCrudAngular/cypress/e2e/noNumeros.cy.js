@@ -1,6 +1,6 @@
 describe('noNumerosenNombre', () => {
   it('Al agregar nombre se verifica que no contenga numeros', () => {
-    cy.visit('http://localhost:4200/')
+    cy.visit('https://employeecrudfront-f9bxaecma0cueccp.brazilsouth-01.azurewebsites.net/')
     /* ==== Generated with Cypress Studio ==== */
     cy.get('.btn').click();
     cy.get('.form-control').clear('J');

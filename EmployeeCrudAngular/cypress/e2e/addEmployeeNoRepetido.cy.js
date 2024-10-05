@@ -1,6 +1,6 @@
 describe('addEmployeeNoRepetido', () => {
   it('Al agregar nombre se verifica que no este repetido', () => {
-    cy.visit('http://localhost:4200/');
+    cy.visit('https://employeecrudfront-f9bxaecma0cueccp.brazilsouth-01.azurewebsites.net/');
     
     // Intentar agregar un empleado repetido
     cy.get('.btn').click(); // Botón para agregar nuevo empleado

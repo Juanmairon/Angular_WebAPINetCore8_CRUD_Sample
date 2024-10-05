@@ -1,6 +1,6 @@
 describe('addApellidoMayusculas', () => {
     it('Al agregar nombre se verifica que el apellido este en mayusculas', () => {
-      cy.visit('http://localhost:4200/');
+      cy.visit('https://employeecrudfront-f9bxaecma0cueccp.brazilsouth-01.azurewebsites.net/');
 
       /* ==== Generated with Cypress Studio ==== */
       cy.get('.btn').click();

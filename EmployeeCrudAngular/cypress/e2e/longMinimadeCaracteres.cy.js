@@ -1,8 +1,7 @@
 describe('longMinimadeCaracteres', () => {
   it('Al agregar nombre se verifica que no tenga menos de 2 caracteres', () => {
-    cy.visit('http://localhost:4200/')
     /* ==== Generated with Cypress Studio ==== */
-    cy.visit('http://localhost:4200/');
+    cy.visit('https://employeecrudfront-f9bxaecma0cueccp.brazilsouth-01.azurewebsites.net/');
     cy.get('.btn').click();
     cy.get('.form-control').clear('a');
     cy.get('.form-control').type('a');

@@ -1,6 +1,6 @@
 describe('editEmployeeNoRepetido', () => {
   it('Al editar nombre se verifica que no esté repetido', () => {
-    cy.visit('http://localhost:4200/')
+    cy.visit('https://employeecrudfront-f9bxaecma0cueccp.brazilsouth-01.azurewebsites.net/')
     /* ==== Generated with Cypress Studio ==== */
     cy.get(':nth-child(3) > :nth-child(4) > a > .fa').click();
     cy.get('.form-control').click();
